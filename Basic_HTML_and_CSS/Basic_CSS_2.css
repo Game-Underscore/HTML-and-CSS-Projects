@@ -1,0 +1,11 @@
+p 	{
+		color: white;
+		background: black;
+		font-size: large;
+		font-weight: italic;
+		text-decoration: underline;
+		text-align: center;
+	}
+h5 {
+	text-shadow: 2px 2px #FF00FF;
+}
