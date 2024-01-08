@@ -1,0 +1,19 @@
+html {
+    font-family: sans-serif;
+    font-size: 110%;
+}
+
+/*-----FORM STYLE-----*/
+.registration form {
+    width: 70%;
+    margin: 2% auto;
+    border: 1px solid #808080;
+    border-radius: 7px;
+}
+
+.registration input[type="text"] {
+    width: 80%;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 7px;
+}
